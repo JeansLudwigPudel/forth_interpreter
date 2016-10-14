@@ -1,2 +1,2 @@
 # forth_interpreter
-Simple interpreter of very forth language's simple dialect.
+Simple interpreter of forth language's simple dialect.
